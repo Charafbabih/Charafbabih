@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Welcome to Charaf-Eddine’s GitHub
+🎓 Software Engineering Student | AI & Finance Enthusiast
+💡 Passionate about AI, Machine Learning, and Quantitative Finance
+📈 Building AI-driven financial models & predictive analytics
+🚀 Always learning, coding, and exploring new technologies
 
-<!--
-**Charafbabih/Charafbabih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 About Me
+Bachelor’s in Software Engineering at Sichuan University
 
-Here are some ideas to get you started:
+Experience in Big Data & AI (Interned at Chengdu Suncape Data CO.LTD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled in Python, Machine Learning, and Data Analysis
+
+🚀 Projects
+🔹 Tesla Stock Prediction – AI-driven stock analysis using Python & ML
+
+📌 Goals
+Master AI & Machine Learning applications in finance
+
+Build scalable quant trading models
+
+Contribute to open-source AI & finance projects
+
+Share my journey through code, projects, and blogs
+
+📫 Connect with Me
+💻 GitHub: @Charafbabih
+📩 Email: babbihcharafeddine@gmail.com
+💼 LinkedIn: Charaf-eddine Babbih
