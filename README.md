@@ -4,17 +4,17 @@
 📈 Building AI-driven financial models & predictive analytics
 🚀 Always learning, coding, and exploring new technologies
 
-🔥 About Me
+🔥 About Me:
+
 Bachelor’s in Software Engineering at Sichuan University
 
 Experience in Big Data & AI (Interned at Chengdu Suncape Data CO.LTD)
 
 Skilled in Python, Machine Learning, and Data Analysis
 
-🚀 Projects
-🔹 Tesla Stock Prediction – AI-driven stock analysis using Python & ML
 
-📌 Goals
+📌 Goals:
+
 Master AI & Machine Learning applications in finance
 
 Build scalable quant trading models
